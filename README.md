@@ -130,9 +130,9 @@ A secure WooCommerce storefront featuring payment integration, performance optim
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=promiseibehdev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Promise Ibeh GitHub statistics" />
+<img height="170" src="profile/stats.svg" alt="Promise Ibeh GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=promiseibehdev&layout=compact&hide_border=true" alt="Promise Ibeh most used languages" />
+<img height="170" src="profile/top-langs.svg" alt="Promise Ibeh most used languages" />
 
 <br/>
 
@@ -156,4 +156,5 @@ A secure WooCommerce storefront featuring payment integration, performance optim
 ![Profile Views](https://komarev.com/ghpvc/?username=promiseibehdev&style=flat-square&label=Profile+Views)
 
 </div>
+
 
