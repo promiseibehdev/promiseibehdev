@@ -48,6 +48,47 @@ My work focuses on cloud computing, artificial intelligence, cybersecurity, auto
 - Website maintenance and client support
 - End-to-end project delivery
 
+## Core Competencies
+
+### Cloud Computing
+- AWS Cloud Services
+- Cloud Infrastructure
+- Cloud Security
+- Terraform
+- Docker
+
+### AI & Automation
+- AI-Augmented Development
+- Prompt Engineering
+- Workflow Automation
+- Python Automation
+
+### Web Development
+- WordPress
+- WooCommerce
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- PHP
+- Node.js
+- Nginx
+
+### Cybersecurity
+- Security Hardening
+- Ethical Hacking
+- Vulnerability Assessment
+- Network Security
+
+### Programming & Tools
+- Python
+- Git
+- GitHub
+- Linux
+- MySQL
+- Firebase
+
 ## Current Focus
 
 - Artificial Intelligence
@@ -188,6 +229,7 @@ A secure WooCommerce storefront featuring payment integration, performance optim
 ![Profile Views](https://komarev.com/ghpvc/?username=promiseibehdev&style=flat-square&label=Profile+Views)
 
 </div>
+
 
 
 
