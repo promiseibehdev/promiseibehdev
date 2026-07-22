@@ -20,6 +20,34 @@ I am a Cloud Engineer, AI Engineer, and Full-Stack Developer with an MSc in Info
 
 My work focuses on cloud computing, artificial intelligence, cybersecurity, automation, and modern web development. I enjoy building secure and practical technology that solves real-world problems.
 
+
+## Professional Experience
+
+### Mu-Matraymond Ventures Ltd
+**Web & Cloud Developer**
+
+- AI-assisted WordPress development and automation
+- AWS cloud architecture and infrastructure management
+- WordPress security hardening and optimization
+- Website performance tuning and SEO improvements
+
+### iTECH International Ltd
+**Web Developer**
+
+- Responsive web application development
+- CMS customization and maintenance
+- Front-end implementation with modern web technologies
+- Website optimization and troubleshooting
+
+### Freelance Web Developer
+**Online Specialist**
+
+- Corporate and e-commerce website development
+- E-commerce website development and customization
+- Server deployment and configuration
+- Website maintenance and client support
+- End-to-end project delivery
+
 ## Current Focus
 
 - Artificial Intelligence
@@ -160,6 +188,9 @@ A secure WooCommerce storefront featuring payment integration, performance optim
 ![Profile Views](https://komarev.com/ghpvc/?username=promiseibehdev&style=flat-square&label=Profile+Views)
 
 </div>
+
+
+
 
 
 
