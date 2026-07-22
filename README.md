@@ -35,6 +35,10 @@ My work focuses on cloud computing, artificial intelligence, cybersecurity, auto
 
 National Open University of Nigeria, Abuja
 
+### BSc in Computer Science
+
+Ecole Superieure Sainte Felicite, Cotonou, Benin Republic
+
 ## Featured Projects
 
 ### Professional Portfolio Platform
@@ -156,5 +160,6 @@ A secure WooCommerce storefront featuring payment integration, performance optim
 ![Profile Views](https://komarev.com/ghpvc/?username=promiseibehdev&style=flat-square&label=Profile+Views)
 
 </div>
+
 
 
